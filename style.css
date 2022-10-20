@@ -4,20 +4,11 @@
     box-sizing: border-box;
 }
 
-body{
-    max-width: 70%;
-    margin: auto;
-    border: 2px solid black;
-    text-align: center;
-}
-
 p{
-    max-width: 50rem;
-    font-size: 40px;
-    border: solid red;
-    margin: auto;
-}
-
-b{
-    font-size: 15mm;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-weight: 700;
+    font-stretch: expanded;
+    font-variant: small-caps;
 }
