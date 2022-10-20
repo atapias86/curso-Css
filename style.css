@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 70%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+}
+.h1{
+    font-size: 25px;
+    color: aqua;
+    margin: 30px;
+}
+#h2{
+    font-size: 16px;
+    color: red;
+}
+[p="lorem"]{
+    font-size: 10px;
+    text-align: justify;
+}
+h4 a {
+    color: yellow;
+    text-decoration: none;
+}
