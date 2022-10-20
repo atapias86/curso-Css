@@ -10,18 +10,14 @@ body{
     border: 2px solid black;
     text-align: center;
 }
-#lorem{
-    color: yellow;
-}
-.lorem{
-    color: blue;
-}
-[p="lorem"]{
-    color: green;
-}
+
 p{
-    color: red;
+    max-width: 50rem;
+    font-size: 40px;
+    border: solid red;
+    margin: auto;
 }
-p{
-    color: black !important;
+
+b{
+    font-size: 15mm;
 }
