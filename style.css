@@ -1,17 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Poppins:ital,wght@0,400;0,700;1,300&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-p {
-    font-size: 1.5rem;
-    font-family: 'Fasthand', cursive;
-    font-family: 'Poppins', sans-serif;
-    line-height: 1.5;
-    font-weight: 700;
-    font-stretch: expanded;
-    font-variant: small-caps;
-}
