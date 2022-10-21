@@ -4,3 +4,19 @@
     box-sizing: border-box;
 }
 
+h1{
+    border: 1px solid red;
+    margin: 5px;
+    display: inline;
+}
+p{
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline;
+}
+b{
+    border: 1px solid forestgreen;
+    margin: 5px;
+    display: block;
+}
+
