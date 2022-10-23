@@ -2,4 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    display: ;
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(251, 4, 4);
+    margin: 20px;
+    background: yellowgreen;
+    display: inline-block;
+    width: 600px;
+    height: 600px;
 }
