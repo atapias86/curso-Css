@@ -3,13 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.p_1{
-    color: red;
-    position: fixed;
-    position: sticky;
-}
-.p_2{
-    color: blue;
-    top: 40px;
-}
