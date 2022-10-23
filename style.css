@@ -4,8 +4,15 @@
     box-sizing: border-box;
 }
 
-img{
-    width: 200px;
-    height: 200px;
-    float: left;
+p::first-line{
+    color: blue;
+    font-size: 25px;
+}
+p::first-letter{
+    font-size: 40px;
+    color: red;
+}
+p::selection{
+    color: red;
+    background-color: blue;
 }
