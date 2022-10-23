@@ -7,9 +7,9 @@
 .p_1{
     color: red;
     position: fixed;
+    position: sticky;
 }
 .p_2{
     color: blue;
-    position: relative;
     top: 40px;
 }
