@@ -4,22 +4,12 @@
     box-sizing: border-box;
 }
 
-.caja{
-    width: 200px;
-    height: 200px;
-    border: 2px solid;
+.p_1{
+    color: red;
+    position: fixed;
 }
-
-.caja_1{
-    border-color: blue;
-    background-color: blue;
+.p_2{
+    color: blue;
     position: relative;
-    z-index: 1;
-}
-.caja_2{
-    border-color: red;
-    background-color: red;
-    position: absolute;
-    top: 100px;
-    left: 100px;
+    top: 40px;
 }
