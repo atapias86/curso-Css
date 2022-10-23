@@ -4,18 +4,34 @@
     box-sizing: border-box;
 }
 
-.caja_1{
-    width: 90px;
+.caja{
     height: 90px;
-    border: 2px solid black;
-    margin: auto;
-    margin-top: 120px;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+.caja_1{
+    border: 5px dotted black;
 }
 
 .caja_2{
-    width: 90px;
-    height: 90px;
-    border: 2px solid black;
-    margin: auto;
+    border: 5px dashed black;
+}
+.caja_3{
+    border: 5px solid black;
+}
+.caja_4{
+    border: 5px groove black;
+}
+.caja_5{
+    border: 5px ridge black;
+}
+.caja_6{
+    border: 5px inset black;
+}
+.caja_7{
+    border: 5px outset black;
+}
+.caja_8{
+    border: 5px dotted black;
 }
