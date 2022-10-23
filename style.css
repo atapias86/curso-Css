@@ -5,19 +5,20 @@
 }
 
 .caja{
-    height: 90px;
-    margin-top: 5px;
-    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
 }
 
 .caja_1{
-    border: 5px solid red;
+    border-color: blue;
+    background-color: blue;
+    position: relative;
 }
 .caja_2{
-    outline: 5px solid black;
-    margin-bottom: 10px;
-}
-
-input{
-    outline: none;
+    border-color: red;
+    background-color: red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
 }
