@@ -4,15 +4,22 @@
     box-sizing: border-box;
 }
 
-div{
-    width: 300px;
-    height: 400px;
+button{
+    display: block;
+    margin: 5px auto;
 }
-
-img{
-    width: 100%;
-    height: 100%;
-    border: 2px solid red;
-    object-fit: cover;
-    object-position: 5px;
+.btn_1{
+cursor:pointer;
+}
+.btn_2{
+cursor:progress;
+}
+.btn_3{
+cursor:cell;
+}
+.btn_4{
+cursor:no-drop;
+}
+.btn_5{
+    cursor: n-resize;
 }
