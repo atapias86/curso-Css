@@ -16,3 +16,12 @@ p::selection{
     color: red;
     background-color: blue;
 }
+
+p:hover{
+    margin: 20px;
+    border: 2px solid yellow;
+}
+
+p:active{
+    font-size: 50px;
+}
