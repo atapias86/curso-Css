@@ -4,22 +4,32 @@
     box-sizing: border-box;
 }
 
-button{
+button {
     display: block;
     margin: 5px auto;
 }
-.btn_1{
-cursor:pointer;
+
+.btn_1 {
+    cursor: pointer;
+    background-color: red;
 }
-.btn_2{
-cursor:progress;
+
+.btn_2 {
+    cursor: progress;
+    background-color: #FF0000;
 }
-.btn_3{
-cursor:cell;
+
+.btn_3 {
+    cursor: cell;
+    background-color:rgb(255, 0, 0);
 }
-.btn_4{
-cursor:no-drop;
+
+.btn_4 {
+    cursor: no-drop;
+    background-color:hsl(0, 100%, 50%);
 }
-.btn_5{
+
+.btn_5 {
     cursor: n-resize;
+    background-color: rgba(255, 0, 0, 12);
 }
